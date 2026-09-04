@@ -7,7 +7,7 @@ about:
   head: 1839e66
   archived: false
   latestVersion: v0.13.5
-  collectedAt: 2026-09-04T19:21:03Z
+  collectedAt: 2026-09-04T21:14:43Z
 timeline:
   created: 2021-02-15
   lastCommit: 2026-03-29
@@ -81,5 +81,33 @@ total:
   openIssue: 7
   commit: 500
 ---
+path: /home/runner/.x-repo/github.com/aome510/hackernews-TUI
+collectedAt: 2026-09-04T21:14:44Z
+loc:
+  Rust:
+    code: 5401
+    comments: 198
+    blanks: 720
+    files: 31
+  Toml:
+    code: 299
+    comments: 72
+    blanks: 47
+    files: 7
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 342
+    blanks: 143
+    files: 2
+total:
+  code: 5789
+  comments: 832
+  blanks: 939
+  files: 41
 ---
 
