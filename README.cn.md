@@ -4,7 +4,7 @@
 
 A Terminal UI to browse Hacker News
 
-![hackernews-TUI](https://repo.x-cmd.io/hackernews-TUI.svg)
+![hackernews-TUI](https://repo.x-cmd.io/hackernews-TUI.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,27 @@ x install hackernews-TUI
 - **最新版本**: `v0.13.5` (2024-10-22)
 - **最近提交**: 2026-03-29
 - **Release 含资产**: 12 个
-- **发布时间**: 2024-10-22T00:11:33Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hackernews_tui-aarch64-apple-darwin.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-apple-darwin.sha256) | 109 B | `native/darwin/arm64` |
+| [hackernews_tui-aarch64-apple-darwin.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [hackernews_tui-aarch64-unknown-linux-gnu.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-unknown-linux-gnu.sha256) | 114 B | `native/linux/arm64/glibc` |
+| [hackernews_tui-aarch64-unknown-linux-gnu.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-unknown-linux-gnu.tar.gz) | 4.3 MiB | `native/linux/arm64/glibc` |
+| [hackernews_tui-armv7-unknown-linux-gnueabihf.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-armv7-unknown-linux-gnueabihf.sha256) | 118 B | `native/linux/arm/glibc` |
+| [hackernews_tui-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-armv7-unknown-linux-gnueabihf.tar.gz) | 4.1 MiB | `native/linux/arm/glibc` |
+| [hackernews_tui-x86_64-apple-darwin.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-apple-darwin.sha256) | 108 B | `native/darwin/x64` |
+| [hackernews_tui-x86_64-apple-darwin.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/x64` |
+| [hackernews_tui-x86_64-pc-windows-msvc.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-pc-windows-msvc.sha256) | 108 B | `native/win/x64` |
+| [hackernews_tui-x86_64-pc-windows-msvc.zip](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-pc-windows-msvc.zip) | 3.5 MiB | `native/win/x64` |
+| [hackernews_tui-x86_64-unknown-linux-gnu.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-unknown-linux-gnu.sha256) | 113 B | `native/linux/x64/glibc` |
+| [hackernews_tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-unknown-linux-gnu.tar.gz) | 4.5 MiB | `native/linux/x64/glibc` |
 
 ## 流行度
 
-- **Star**: 719 · **Fork**: 34 · **开放 issue**: 35 · **贡献者**: 13
+- **Star**: 719 · **Fork**: 33 · **开放 issue**: 35 · **贡献者**: 13
 
 ## 累计统计
 
@@ -60,4 +76,4 @@ hackernews-TUI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:22:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:57:47Z._

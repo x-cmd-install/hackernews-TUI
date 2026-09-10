@@ -22,11 +22,27 @@ x install hackernews-TUI
 - **Latest**: `v0.13.5` (2024-10-22)
 - **Last commit**: 2026-03-29
 - **Assets in release**: 12
-- **Published**: 2024-10-22T00:11:33Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [hackernews_tui-aarch64-apple-darwin.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-apple-darwin.sha256) | 109 B | `native/darwin/arm64` |
+| [hackernews_tui-aarch64-apple-darwin.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-apple-darwin.tar.gz) | 3.9 MiB | `native/darwin/arm64` |
+| [hackernews_tui-aarch64-unknown-linux-gnu.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-unknown-linux-gnu.sha256) | 114 B | `native/linux/arm64/glibc` |
+| [hackernews_tui-aarch64-unknown-linux-gnu.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-aarch64-unknown-linux-gnu.tar.gz) | 4.3 MiB | `native/linux/arm64/glibc` |
+| [hackernews_tui-armv7-unknown-linux-gnueabihf.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-armv7-unknown-linux-gnueabihf.sha256) | 118 B | `native/linux/arm/glibc` |
+| [hackernews_tui-armv7-unknown-linux-gnueabihf.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-armv7-unknown-linux-gnueabihf.tar.gz) | 4.1 MiB | `native/linux/arm/glibc` |
+| [hackernews_tui-x86_64-apple-darwin.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-apple-darwin.sha256) | 108 B | `native/darwin/x64` |
+| [hackernews_tui-x86_64-apple-darwin.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-apple-darwin.tar.gz) | 4.0 MiB | `native/darwin/x64` |
+| [hackernews_tui-x86_64-pc-windows-msvc.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-pc-windows-msvc.sha256) | 108 B | `native/win/x64` |
+| [hackernews_tui-x86_64-pc-windows-msvc.zip](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-pc-windows-msvc.zip) | 3.5 MiB | `native/win/x64` |
+| [hackernews_tui-x86_64-unknown-linux-gnu.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-unknown-linux-gnu.sha256) | 113 B | `native/linux/x64/glibc` |
+| [hackernews_tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-unknown-linux-gnu.tar.gz) | 4.5 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
-- **Stars**: 719 · **Forks**: 34 · **Open issues**: 35 · **Contributors**: 13
+- **Stars**: 719 · **Forks**: 33 · **Open issues**: 35 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -56,8 +72,8 @@ Total: **5,709** lines of code across **41** files in the top 5 languages.
 Install metadata for hackernews-TUI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hackernews-TUI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/hackernews-TUI.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/hackernews-TUI.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:22:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:57:47Z._
