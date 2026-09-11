@@ -12,6 +12,17 @@ A Terminal UI to browse Hacker News
 x install hackernews-TUI
 ```
 
+## Code insight
+
+Total: **5,709** lines of code across **41** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 5,401 | 198 | 720 | 31 |
+| Toml | 299 | 72 | 47 | 7 |
+| Dockerfile | 9 | 0 | 1 | 1 |
+| Markdown | 0 | 342 | 143 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/aome510/hackernews-TUI>
@@ -22,6 +33,25 @@ x install hackernews-TUI
 - **Latest**: `v0.13.5` (2024-10-22)
 - **Last commit**: 2026-03-29
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 719 · **Forks**: 33 · **Open issues**: 35 · **Contributors**: 13
+
+## Totals (cumulative)
+
+- **Releases**: 32 · **Merged PRs**: 75 · **Open PRs**: 3 · **Closed issues**: 28 · **Open issues**: 7 · **Commits**: 500
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 360d | 2025-09-16 | 0 | 0 | 1 | 0 | 2 | 1 |
+| last720d | 2024-09-21 | 1 | 1 | 3 | 1 | 4 | 4 |
 
 ## Release assets
 
@@ -40,33 +70,6 @@ x install hackernews-TUI
 | [hackernews_tui-x86_64-unknown-linux-gnu.sha256](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-unknown-linux-gnu.sha256) | 113 B | `native/linux/x64/glibc` |
 | [hackernews_tui-x86_64-unknown-linux-gnu.tar.gz](https://github.com/aome510/hackernews-TUI/releases/download/v0.13.5/hackernews_tui-x86_64-unknown-linux-gnu.tar.gz) | 4.5 MiB | `native/linux/x64/glibc` |
 
-## Popularity
-
-- **Stars**: 719 · **Forks**: 33 · **Open issues**: 35 · **Contributors**: 13
-
-## Totals (cumulative)
-
-- **Releases**: 32 · **Merged PRs**: 75 · **Open PRs**: 3 · **Closed issues**: 28 · **Open issues**: 7 · **Commits**: 500
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 1 |
-
-## Code size
-
-Total: **5,709** lines of code across **41** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 5,401 | 198 | 720 | 31 |
-| Toml | 299 | 72 | 47 | 7 |
-| Dockerfile | 9 | 0 | 1 | 1 |
-| Markdown | 0 | 342 | 143 | 2 |
-
 ## Improve this data
 
 Install metadata for hackernews-TUI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hackernews-TUI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +79,4 @@ Install metadata for hackernews-TUI lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:57:47Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:55Z._
